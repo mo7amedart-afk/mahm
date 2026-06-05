@@ -1,0 +1,6 @@
+{
+  "name": "تحليل الشخصية العلمي",
+  "description": "تطبيق عربي تفاعلي لتحليل وقياس السمات الشخصية الخمس الكبرى (Big Five) بطريقة علمية واحتمالية غير تشخيصية معتمدة على مصادر موثوقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
